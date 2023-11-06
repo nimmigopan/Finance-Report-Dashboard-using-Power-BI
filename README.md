@@ -14,10 +14,12 @@ Product: The name of the product being sold in the transaction such as 'Paseo','
 
 some samples from dataset is shown below:
 
-![image](https://github.com/nimmigopan/power_bi/assets/35449494/a67e1b5f-0e75-4abd-8f4e-08d032292271)
+![sample dataset](https://github.com/nimmigopan/Finance-Report-Dashboard-using-Power-BI/assets/35449494/88bbb9f1-9d01-4f5d-a633-22c9f1a05b3e)
+
 
 
 This data can be used for various types of analysis, including sales performance, profitability, and market segmentation assessments.
 With the help of Power BI, a Finance Report Dashboard is built based on the insights obtained from data.
 
-![image](https://github.com/nimmigopan/power_bi/assets/35449494/1ea51479-88aa-41b0-9cda-94e84504a8ab)
+![Dashboard](https://github.com/nimmigopan/Finance-Report-Dashboard-using-Power-BI/assets/35449494/83536a48-57f5-409f-bc11-a25d711c932a)
+
